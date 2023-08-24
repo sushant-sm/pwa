@@ -1,0 +1,13 @@
+.push-notification-box {
+    padding: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    margin-top: 16px;
+  }
+  
+  .notification-status {
+    margin-top: 16px;
+  }
+  
